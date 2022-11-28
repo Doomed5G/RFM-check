@@ -1,3 +1,3 @@
-crowdstrike_falconpy==1.2.4
+crowdstrike_falconpy==1.2.5
 gspread==5.7.1
 oauth2client==4.1.3
